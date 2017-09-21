@@ -1,0 +1,30 @@
+GIT:- VCS -version control system to track changes in files/folders.
+          
+Git HubL   -Provides back up
+          - Provides visual interface to your repo
+          - makes collabration easier
+
+
+->When number of people are working on particular file, if one person make any chnages that updated file must have by other people who working on that file.
+->Each person have their own repository  where the poeple can do commit and update actions on working copy and push/pull their changes in Git Hub i.e server.
+-> The main advatnage is we don't have on internet connect alwasys we can work on working file even on offline, but we need interner connetcion when we have to do push operation.
+
+PC1 -> working file ->  (commit/update) -> Repository
+                                                    => (Push//Pull) ->Repository (Server)
+PC2 -> working file -> (commit/update) -> Repository  
+------------------------------------------------------------------------
+Working with Git and GitHub and track the changes:-
+
+Step1: Check if git is already installed
+        open termina and type command: git --version
+Step2: Download and install git
+Step3: Signup in github.com and get account
+Step4: Add your github email and username to git
+       git config --global user.email kusuma9027@gmail.com
+       git config --global user.name kusuma91
+Step5: Add file/folders to git - tracking the changes
+Step6: Command:
+       - terminal - goto the location of the folder/project
+       - git init
+       - git status
+      
