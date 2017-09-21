@@ -2,3 +2,5 @@ Tutorial 5: Branching and Merging:
 
    - git branch MyNewBranch
    - git checkout MyNewBranch
+    perform operations like add,commit, push
+
