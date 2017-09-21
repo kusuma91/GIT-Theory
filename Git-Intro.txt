@@ -40,4 +40,18 @@ __________________
 Some other command:
  - git -log (this will show what we done)
  - git --help (we get all commands and their usage and some information of masters,branches etc)
+------------------------------------------------------------------------------------------------
+Tutorial-4
+
+Enable git commands autocomplete and colour on mac
+-------------------------------------------------------------
+Tutorial - 5 
+*************
+1.What are branches?
+Create a branch check out branch, after done adding, testing on files whatever u neeed changes do all activities on files through branch and finally  merge into main branch and then delete branch.
+
+2, How to create brach:
+
+Step1: git branch "branch name"
+
 
