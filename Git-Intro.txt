@@ -29,3 +29,15 @@ Step6: Command:
        - git status
        - git add Git-Intro-txt
        -git commit -m "Git introduction file added"
+after some modifications
+    - git add .
+
+Create repository 
+__________________
+  - git remote add origin https://github.com/kusuma91/Repo1.git
+  - git push -u origin master
+---------------------------------------------------------------------------
+Some other command:
+ - git -log (this will show what we done)
+ - git --help (we get all commands and their usage and some information of masters,branches etc)
+
