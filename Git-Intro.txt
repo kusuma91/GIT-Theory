@@ -27,4 +27,5 @@ Step6: Command:
        - terminal - goto the location of the folder/project
        - git init
        - git status
-      
+       - git add Git-Intro-txt
+       -git commit -m "Git introduction file added"
