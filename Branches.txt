@@ -4,3 +4,10 @@ Tutorial 5: Branching and Merging:
    - git checkout MyNewBranch
     perform operations like add,commit, push
 
+Merge
+
+   -git checkout master
+   -merge new branch in master branch
+     git merge MyNewBranch 
+  - git push -u origin master
+
