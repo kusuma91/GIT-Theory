@@ -1,0 +1,19 @@
+Tutorial 5: Branching and Merging:
+
+   - create branch 
+     git branch MyNewBranch
+   - to switch from master to branch 
+    git checkout MyNewBranch
+    perform operations like add,commit, push
+
+Merge
+
+   -git checkout master
+   -merge new branch in master branch
+     git merge MyNewBranch 
+  - git push -u origin master
+
+Delete branch:
+   - Delete branch
+      git branch -d "branchname"  (from local)
+      git push origin --delete "branch name" (delete from remote)

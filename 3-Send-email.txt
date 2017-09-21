@@ -1,0 +1,5 @@
+How to emails or notifications to emails:
+
+
+Step1:   Github-> Repository-> Setting ->Integration&Services-add Email
+Step2: Test and validate by making changes in the project
